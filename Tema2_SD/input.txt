@@ -1,0 +1,2 @@
+goto gogogle.com
+print_open_tabs
